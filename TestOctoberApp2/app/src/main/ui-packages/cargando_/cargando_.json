@@ -1,0 +1,316 @@
+{
+  "name": "cargando_",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "O2s7sC02mIPxa8f9aoSPsM",
+    "node": "25:7",
+    "version": "3262755024",
+    "component-id": "5d0535ae3b5223f914d2099894f1858e137727bf"
+  },
+  "default": "Property 1=Default",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Cargando..."
+      },
+      {
+        "type": "text",
+        "id": "Revisando el calendario"
+      },
+      {
+        "type": "text",
+        "id": "¿Cuándo es octubre?"
+      },
+      {
+        "type": "text",
+        "id": "Obteniendo la fecha de hoy"
+      },
+      {
+        "type": "text",
+        "id": "Comparando fechas"
+      },
+      {
+        "type": "text",
+        "id": "Ya casi.."
+      }
+    ],
+    "modes": {
+      "Property 1=Default": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Cargando..."
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Cargando...",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "Cargando...",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "Property 1=Variant2": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Revisando el calendario"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Revisando el calendario",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "Revisando el calendario",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "Property 1=Variant3": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "¿Cuándo es octubre?"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "¿Cuándo es octubre?",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "¿Cuándo es octubre?",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "Property 1=Variant4": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Obteniendo la fecha de hoy"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Obteniendo la fecha de hoy",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "Obteniendo la fecha de hoy",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "Property 1=Variant5": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Comparando fechas"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Comparando fechas",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "Comparando fechas",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "Property 1=Variant6": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Ya casi.."
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Ya casi..",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "Ya casi..",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Property 1=Default",
+      "size": {
+        "width": 229.0,
+        "height": 18.0
+      }
+    },
+    {
+      "design": "Property 1=Variant2",
+      "size": {
+        "width": 229.0,
+        "height": 18.0
+      }
+    },
+    {
+      "design": "Property 1=Variant3",
+      "size": {
+        "width": 229.0,
+        "height": 18.0
+      }
+    },
+    {
+      "design": "Property 1=Variant4",
+      "size": {
+        "width": 229.0,
+        "height": 18.0
+      }
+    },
+    {
+      "design": "Property 1=Variant5",
+      "size": {
+        "width": 229.0,
+        "height": 18.0
+      }
+    },
+    {
+      "design": "Property 1=Variant6",
+      "size": {
+        "width": 229.0,
+        "height": 18.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

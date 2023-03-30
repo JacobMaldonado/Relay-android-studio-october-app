@@ -1,0 +1,105 @@
+{
+  "name": "logo",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "O2s7sC02mIPxa8f9aoSPsM",
+    "node": "112:195",
+    "version": "3262755024",
+    "component-id": "c9c9a8337a9f043a1b8a818507d53ad9a83acc22"
+  },
+  "default": "Property 1=ioy-solid",
+  "documentation": "Logo",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "ioy-solid"
+      },
+      {
+        "type": "image",
+        "id": "ioy-gradient"
+      }
+    ],
+    "modes": {
+      "Property 1=ioy-solid": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "ioy-solid"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "ioy-solid",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "ioy_solid.png",
+            "scale": "cover"
+          }
+        ]
+      },
+      "Property 1=ioy-gradient": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "ioy-gradient"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "ioy-gradient",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "ioy_gradient.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Property 1=ioy-solid",
+      "size": {
+        "width": 286.0,
+        "height": 380.0
+      }
+    },
+    {
+      "design": "Property 1=ioy-gradient",
+      "size": {
+        "width": 286.0,
+        "height": 380.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

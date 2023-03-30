@@ -1,0 +1,326 @@
+{
+  "name": "button",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "O2s7sC02mIPxa8f9aoSPsM",
+    "node": "101:182",
+    "version": "3262755024",
+    "component-id": "f0617671132ade1c97aacbf2e3d7ffa039bbd7a4"
+  },
+  "default": "State=Default, Theme=Dark",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Comprobar otra vez"
+      }
+    ],
+    "modes": {
+      "State=Default, Theme=Dark": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": "16.0",
+            "tap-handler": "$TapHandler",
+            "arrangement": "row",
+            "children": [
+              "Comprobar otra vez"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "42.75449101796407",
+              "saturation": "0.6549019607843137",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Comprobar otra vez",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.08235294117647059"
+            },
+            "text-content": "$textLabel",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "State=Default, Theme=Light": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": "16.0",
+            "tap-handler": "$TapHandler",
+            "arrangement": "row",
+            "children": [
+              "Comprobar otra vez"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "215.1627906976744",
+              "saturation": "0.9953703703703703",
+              "value": "0.8470588235294118"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Comprobar otra vez",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "$textLabel",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "State=Pressed, Theme=Dark": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": "16.0",
+            "tap-handler": "$TapHandler",
+            "arrangement": "row",
+            "children": [
+              "Comprobar otra vez"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "46.95652173913043",
+              "saturation": "0.36078431372549025",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Comprobar otra vez",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.08235294117647059"
+            },
+            "text-content": "$textLabel",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "State=Pressed, Theme=Light": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": "16.0",
+            "tap-handler": "$TapHandler",
+            "arrangement": "row",
+            "children": [
+              "Comprobar otra vez"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "218.135593220339",
+              "saturation": "0.4796747967479675",
+              "value": "0.9647058823529412"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Comprobar otra vez",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.9254901960784314"
+            },
+            "text-content": "$textLabel",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "State=Variant3, Theme=Dark": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": "16.0",
+            "tap-handler": "$TapHandler",
+            "arrangement": "row",
+            "children": [
+              "Comprobar otra vez"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.36470588235294116"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Comprobar otra vez",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.5411764705882353"
+            },
+            "text-content": "$textLabel",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      },
+      "State=Variant3, Theme=Light": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": "16.0",
+            "tap-handler": "$TapHandler",
+            "arrangement": "row",
+            "children": [
+              "Comprobar otra vez"
+            ],
+            "item-spacing": "8.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.5411764705882353"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Comprobar otra vez",
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.36470588235294116"
+            },
+            "text-content": "$textLabel",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "16.0",
+            "line-height": "1.4809999465942383",
+            "typeface": "Space Mono"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "TapHandler": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "textLabel": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "State=Default, Theme=Dark",
+      "size": {
+        "width": 360.0,
+        "height": 60.0
+      },
+      "parameters": {
+        "textLabel": "Comprobar otra vez"
+      }
+    },
+    {
+      "design": "State=Default, Theme=Light",
+      "size": {
+        "width": 360.0,
+        "height": 60.0
+      },
+      "parameters": {
+        "textLabel": "Comprobar otra vez"
+      }
+    },
+    {
+      "design": "State=Pressed, Theme=Dark",
+      "size": {
+        "width": 360.0,
+        "height": 60.0
+      },
+      "parameters": {
+        "textLabel": "Comprobar otra vez"
+      }
+    },
+    {
+      "design": "State=Pressed, Theme=Light",
+      "size": {
+        "width": 360.0,
+        "height": 60.0
+      },
+      "parameters": {
+        "textLabel": "Comprobar otra vez"
+      }
+    },
+    {
+      "design": "State=Variant3, Theme=Dark",
+      "size": {
+        "width": 360.0,
+        "height": 60.0
+      },
+      "parameters": {
+        "textLabel": "Comprobar otra vez"
+      }
+    },
+    {
+      "design": "State=Variant3, Theme=Light",
+      "size": {
+        "width": 360.0,
+        "height": 60.0
+      },
+      "parameters": {
+        "textLabel": "Comprobar otra vez"
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
